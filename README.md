@@ -1,59 +1,68 @@
-# Hi there, I'm Harshitha R Thodathara 👋  
+<h1 align="center">Hi, I'm Harshitha R Thodathara 👋</h1>
+<h3 align="center"> Data Engineer & Analyst | Cloud & Business Systems Enthusiast </h3>
+<h4 align="center">Data Professional with 1.5 years of experience designing scalable data pipelines and cloud-based data warehousing solutions. Skilled in Python, Databricks, and AWS, with expertise in ETL/ELT, data modeling, and BI dashboards. Passionate about delivering reliable, cost-efficient, and business-focused data solutions.</h4>
 
-**Data Engineer & Analyst | Cloud & Business Systems Enthusiast**  
-
-📊 With 1.5 years of professional experience, I specialize in designing **scalable data pipelines**, **cloud-based warehousing**, and **interactive BI dashboards**. I thrive at the intersection of **data engineering**, **analytics**, and **cloud platforms**, transforming raw data into actionable insights that drive smarter business decisions.  
-
----
-
-## 💫 About Me  
-- 🎓 **Education**:  
-  - B.Tech in Computer Science & Engineering – *Amrita School of Computing, Bengaluru (2021–2025)*  
-  - GPA: 7.6/10  
-  - Certified in **Snowflake SnowPro Core**, **Databricks Data Engineer Associate**, and **Microsoft Azure Fundamentals**  
-- 🔭 **Professional Experience**:  
-  - **CGI** *(Software Engineer – Data Intern)* → Optimized ETL pipelines in Python & Databricks, built Power BI dashboards, and enhanced Snowflake performance for enterprise clients.  
-  - **Cybrowse Digital Solutions** *(Machine Learning Intern)* → Built credit risk models (85% accuracy) & interactive portfolio risk dashboards.  
-  - **M3 Solutions** *(Data Analytics Intern)* → Processed 10k+ patient records in R/Python, developed healthcare Tableau dashboards.  
-- 🤝 **Team-Oriented**: Strong collaborator in cross-functional environments, with focus on **data quality, documentation, and cost efficiency**.  
-- ⚡ **Fun Fact**: I love blending *data, creativity, and storytelling* through interactive dashboards and visualizations.  
+<p align="center"> 
+  <a href="https://linkedin.com/in/harshitha0912ml" target="_blank">
+    <img src="https://img.shields.io/badge/-Harshitha%20R%20Thodathara-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  <a href="mailto:harshitha0912ml@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/harshitha0912ml" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Highlight Projects  
+## 🔭 Featured Projects
 
-🔹 **Redfin Real Estate Analytics Pipeline**  
-*End-to-end pipeline in Python + Databricks (AWS), automated ETL, Snowflake DWH, and interactive Power BI dashboards.*  
+Here are some of my key projects — click to check out the repos:
 
-🔹 **AdventureWorks Enterprise Data Systems**  
-*Implemented Bronze-Silver-Gold data architecture with Databricks + ADF, delivering enterprise-scale analytics with 99% accuracy.*  
+- [**Amazon Books Business Analytics Engine**](https://github.com/harshitha0912ml/AmazonBookAnalyticsEngine) — Built a data analytics engine for Amazon book data; pipeline + dashboards with actionable business insights.
 
-🔹 **Amazon Books Business Analytics Engine**  
-*Built scalable Databricks pipeline with medallion architecture, optimized for cost and performance while ensuring business-focused data insights.*  
+- [**AdventureWorks Data Engineering Pipeline**](https://github.com/harshitha0912ml/AdventureWorks_DE_Pipeline) — Enterprise-scale data pipeline using best practices, building transformations, data validation, and BI-ready datasets.
 
-🔹 **Healthcare Analytics Research**  
-- *ICSAIS 2024*: CNN-based tamper detection for medical image record security.  
-- *I2CT 2024*: Parkinson’s diagnosis from speech analysis with 95% accuracy.  
+- [**Redfin Analytics DE Pipeline (Airflow · AWS · Snowflake · Power BI)**](https://github.com/harshitha0912ml/Redfin-Analytics-DE-Pipeline-Airflow-AWS-Snowflake-PowerBI) — End-to-end pipeline (scheduling, cloud infra, warehousing) + dashboards to visualize real estate trends.
+
+- [**Parkinson’s Prediction Machine Learning Project**](https://github.com/harshitha0912ml/Parkinsons_Prediction_Machine_Learning_Project) — ML model to predict Parkinson’s using speech data; includes feature engineering, evaluation, and visualization.
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack:
 
-**Languages & Tools**: Python, R, SQL, PySpark, Java (academic)  
-**Data Engineering**: Databricks, Airflow, ADF, ETL Pipelines  
-**Databases**: Snowflake, PostgreSQL, MySQL, SQL Server  
-**Cloud Platforms**: AWS, Azure, GCP (familiar)  
-**BI Tools**: Power BI, Tableau, Excel  
-**Machine Learning**: Predictive Modeling, Feature Engineering, Risk Analysis  
-**Collaboration Tools**: Git, SharePoint, Teams, APIs  
+### 🛠️ Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄️ Databases & Warehousing:
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 📊 BI Tools:
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ⚙️ Data Engineering Tools:
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### ☁️ Cloud & CI/CD:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect!  
-- ✉️ Email: **harshitha0912ml@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/harshitha0912ml)  
-- 🌐 [GitHub](https://github.com/harshitha0912ml)  
-
----
-
-⭐️ *“Data is the bridge between business challenges and innovative solutions — and I love building that bridge.”*  
+⭐️ *“Data is the bridge between business challenges and innovative solutions — and I love building that bridge.”*
+ 
