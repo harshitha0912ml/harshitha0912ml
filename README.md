@@ -16,6 +16,18 @@
 
 ---
 
+## 💫 About Me:
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, Amrita School of Computing (2021–2025)  
+- 🔭 **Experience:** Data Intern at CGI, Machine Learning Intern at Cybrowse, Data Analytics Intern at M3 Solutions  
+- 🚀 **Specializations:** Data Engineering, Cloud Data Warehousing, Business Intelligence, Data Analytics  
+- 💬 **Expertise:** Python, Databricks, ETL/ELT Pipelines, Snowflake, Power BI, Tableau  
+- 🤝 **Team-Oriented:** Collaborator, problem solver, documentation-driven, client-focused  
+- 📫 **Contact:** harshitha0912ml@gmail.com | [LinkedIn](https://linkedin.com/in/harshitha0912ml)  
+- ⚡ **Fun Fact:** Love blending data + creativity through storytelling dashboards & real-world projects  
+
+---
+
 ## 🔭 Featured Projects
 
 Here are some of my key projects — click to check out the repos:
@@ -27,6 +39,32 @@ Here are some of my key projects — click to check out the repos:
 - [**Redfin Analytics DE Pipeline (Airflow · AWS · Snowflake · Power BI)**](https://github.com/harshitha0912ml/Redfin-Analytics-DE-Pipeline-Airflow-AWS-Snowflake-PowerBI) — End-to-end pipeline (scheduling, cloud infra, warehousing) + dashboards to visualize real estate trends.
 
 - [**Parkinson’s Prediction Machine Learning Project**](https://github.com/harshitha0912ml/Parkinsons_Prediction_Machine_Learning_Project) — ML model to predict Parkinson’s using speech data; includes feature engineering, evaluation, and visualization.
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://achieve.snowflake.com/689a3290-3847-4e63-aec6-92e6dee55614#acc.g9I7xt1T" target="_blank">
+    <img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake SnowPro Core"/>
+  </a>
+  <a href="https://credentials.databricks.com/09cc26a1-f85e-4cd2-a5a5-cf5ac06c74c2#acc.mbKi0sfX" target="_blank">
+    <img src="https://img.shields.io/badge/Databricks%20Data%20Engineer%20Associate-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Data Engineer Associate"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-in/users/harshithareddythodathara-7748/credentials/fac957208c028eab?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Fundamentals"/>
+  </a>
+</p>
+
+---
+
+## 📑 Research & Publications
+
+- [**Enhancing Healthcare Image Record Security via CNN-based Tamper Detection, Watermarking, and Digital Signatures**](https://ieeexplore.ieee.org/document/10760451)  
+  Published at *ICSAIS 2024* — Proposed CNN-based tamper detection & watermarking framework to secure medical image records.
+
+- [**Parkinson's Disease Diagnosis from Patients’ Speech Analysis**](https://ieeexplore.ieee.org/document/10543434)  
+  Published at *I2CT 2024* — Developed ML-based pipeline for Parkinson’s detection with 95% accuracy from speech data.
 
 ---
 
@@ -48,7 +86,7 @@ Here are some of my key projects — click to check out the repos:
 ### 📊 BI Tools:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### ⚙️ Data Engineering Tools:
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
@@ -65,4 +103,5 @@ Here are some of my key projects — click to check out the repos:
 ---
 
 ⭐️ *“Data is the bridge between business challenges and innovative solutions — and I love building that bridge.”*
+
  
